@@ -1,12 +1,12 @@
 # AngelAuraMC website
-- Index HTML v2025.0630.0
+- Index HTML v2026.0603.0
   - Main page structure
-- Stylesheet v2025.0621.0
+- Stylesheet v2026.0603.0
   - Styling, dark mode, layouts
-- Quotes JavaScript v2025.0502.0
+- Quotes JavaScript v2026.0603.0
   - Handles quotes text under the nav buttons, sometimes does other messages
 - ContentView JavaScript v2023.1128.2
-  - Allows the user to switch between the different views on the site (currently unused)
+  - Allows the user to switch between the different views on the site 
 
 ## Development and contribution
 Due to the principles above, this site is incredibly easy to work with.
