@@ -14,7 +14,7 @@ var currentDay = currentFullDate.getDate();
 // Quotes
 const quotes = [
     "flint and STEEL",
-    "this is a CRAFTING TABLE",
+    "this... is a CRAFTING TABLE",
     "Water bucket! RELEASE",
     "CHICKEN JOCKEY",
     "ENDER PEARLL"
